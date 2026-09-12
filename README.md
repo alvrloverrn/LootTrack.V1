@@ -1,14 +1,14 @@
 # LootTrack.V1 
-# 📱 [Insert App Name Here]
+# 📱 LootTrack
 
 A lightweight, responsive mobile application built using WebIntoApp. 
 
 ---
 
 ## 🚀 Features
-* **[Feature 1]** - Describe a main feature here (e.g., Fast user interface).
-* **[Feature 2]** - Describe another feature (e.g., Works entirely offline).
-* **[Feature 3]** - Describe a third feature or design aspect.
+* **[Feature 1]** - Fast interface and minimalistic UI.
+* **[Feature 2]** - Works fully offline. 
+* **[Feature 3]** - Has a paypal tip interface built in, and also looks professional.
 
 ---
 
