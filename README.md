@@ -31,4 +31,4 @@ This app is completely open and safe to use. The "Unknown Source" warning appear
 
 ## 🛠️ Built With
 * [WebIntoApp](https://webintoapp.com) - Used for bundling the application into an Android package.
-* [Insert your frontend framework/language here, e.g., HTML/CSS/JavaScript or React]
+* [This open-source app uses HTML for it's language.]
